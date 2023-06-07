@@ -10,7 +10,6 @@ function App() {
         <Tab eventKey="rsa" title="RSA">
           <RSAContainer />
         </Tab>
-        <Tab eventKey="decrypt" title="Deshifrlash"></Tab>
       </Tabs>
     </div>
   );
